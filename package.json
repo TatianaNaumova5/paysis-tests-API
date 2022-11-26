@@ -1,0 +1,25 @@
+{
+  "name": "paysis-tests-api",
+  "version": "1.0.0",
+  "description": "New Paysis-tests-API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaNaumova5/paysis-tests-API.git"
+  },
+  "author": "Tatiana Naumova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatianaNaumova5/paysis-tests-API/issues"
+  },
+  "homepage": "https://github.com/TatianaNaumova5/paysis-tests-API#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/plugin-transform-runtime": "^7.19.6",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9"
+  }
+}
